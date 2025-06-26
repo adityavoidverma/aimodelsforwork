@@ -1,0 +1,2 @@
+# aimodelsforwork
+ai made simple
